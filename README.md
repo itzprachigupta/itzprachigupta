@@ -1,8 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+![MasterHead](https://camo.githubusercontent.com/09e4930a59167dcea9c9f2d64a1a73a31e89cdde6f1de97ed44d6a726a4ea388/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565 )
 <h1 align="center">Hi 👋, I'm Prachi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <a href="https://twitter.com/itz_prachigupta" target="blank"><img src="https://img.shields.io/twitter/follow/itz_prachigupta?logo=twitter&style=for-the-badge" alt="itz_prachigupta" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*yBvA5CnEX3Sd4aod.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*yBvA5CnEX3Sd4aod.gif"> -->
 
 - 🔭 I’m currently working on **Web Development**
 
